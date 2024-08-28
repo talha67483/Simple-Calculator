@@ -1,0 +1,1 @@
+# simple cli calculator which can do basic arithmetic operations like addition subtraction multiplication division exponentiation and modules
